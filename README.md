@@ -1,11 +1,11 @@
 # MyCash
 
 ## Technology 🛠️
-* React
-* Typescript
-* MirageJS
-* Axios
-* Styled-components
+* [React](https://reactjs.org/)
+* [Typescript](https://www.typescriptlang.org/)
+* [MirageJS](https://miragejs.com/)
+* [Axios](https://axios-http.com/)
+* [Styled-components](https://styled-components.com/)
 
 ## Getting Started :rocket:
 
