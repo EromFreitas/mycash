@@ -3,6 +3,8 @@
 ## Technology 🛠️
 * React
 * Typescript
+* MirageJS
+* Axios
 * Styled-components
 
 ## Getting Started :rocket:
