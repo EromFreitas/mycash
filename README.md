@@ -1,11 +1,11 @@
 # MyCash
 
-# Technology
+## Technology 🛠️
 * React
 * Typescript
 * Styled-components
 
-## Getting Started
+## Getting Started :rocket:
 
 First, run the development server:
 
