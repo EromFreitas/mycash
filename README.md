@@ -6,6 +6,7 @@
 * [MirageJS](https://miragejs.com/)
 * [Axios](https://axios-http.com/)
 * [Styled-components](https://styled-components.com/)
+* [React-modal](https://github.com/reactjs/react-modal)
 
 ## Getting Started :rocket:
 
