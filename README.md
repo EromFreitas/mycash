@@ -1,6 +1,6 @@
 # MyCash
 
-## Technology 🛠️
+## Technologies 🛠️
 * [React](https://reactjs.org/)
 * [Typescript](https://www.typescriptlang.org/)
 * [MirageJS](https://miragejs.com/)
